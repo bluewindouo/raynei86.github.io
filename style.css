@@ -1,8 +1,9 @@
 a {
-color: red;
+	color: red;
 }
 
 body {
+	text-align: center;
 	max-width: 600px;
 	margin-left: auto;
 	margin-right: auto;
