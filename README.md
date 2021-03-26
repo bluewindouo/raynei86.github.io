@@ -1,3 +1,3 @@
-# raynei86.github.io
+# raynei.github.io
 My website
-https://raynei86.github.io
+https://raynei.github.io
