@@ -1,24 +1,35 @@
-.Navbar {
-	background: gray;
-	height: 30px;
-	text-align: center;;
+body, html {
+  height: 100%;
 }
 
-.Navbar a {
-	font-size: 16px;
+* {
+  box-sizing: border-box;
+}
+
+.Front-Hibiki {
+position: relative;
+color: white;
+text-align: center;
+}
+
+.Front-Text {
+	position: absolute;
+	top: 12px;
+	left: auto;
+	right: 15px;
+
+	color: red;
+	background-color: transparent;
+
+	word-spacing: 10px;
+}
+
+.Front-Text a {
 	text-decoration: none;
-	padding: 5px;
-	color: black;
+	color: gray;
+	font-size: 22px;
 }
 
-.Navbar a:hover {
+.Front-Text a:hover {
 	text-decoration: underline;
-}
-
-.Navbar a:active {
-	color: blue;
-}
-
-Nav {
-	margin-top: 0px;
 }
