@@ -1,33 +1,34 @@
 body, html {
   height: 100%;
-}
-
-* {
-  box-sizing: border-box;
+	width: 100%;
 }
 
 .Front-Hibiki {
 position: relative;
 color: white;
 text-align: center;
+
+filter: blur(4px) brightness(60%);
 }
 
 .Front-Text {
 	position: absolute;
 	top: 12px;
-	left: auto;
-	right: 15px;
+	right: 10px;
 
-	color: red;
-	background-color: transparent;
+	padding-top: 5px;
+	padding-right: 30px;
 
-	word-spacing: 10px;
+
+	word-spacing: 15px;
 }
 
 .Front-Text a {
 	text-decoration: none;
-	color: gray;
+	color: white;
 	font-size: 22px;
+
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 .Front-Text a:hover {
