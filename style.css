@@ -4,11 +4,9 @@ body, html {
 }
 
 .Front-Hibiki {
-position: relative;
-color: white;
-text-align: center;
+	height: 100%;
 
-filter: blur(3px) brightness(50%);
+  filter: blur(3px) brightness(50%);
 }
 
 .Front-Text {
