@@ -8,7 +8,7 @@ position: relative;
 color: white;
 text-align: center;
 
-filter: blur(4px) brightness(60%);
+filter: blur(3px) brightness(50%);
 }
 
 .Front-Text {
